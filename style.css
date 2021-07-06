@@ -43,6 +43,7 @@ h1 {
 }
 .section3 {
   background-image: linear-gradient(#ff00007d, pink);
+  height: 450px;
   display: flex;
 }
 .chef {

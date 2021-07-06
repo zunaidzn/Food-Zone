@@ -58,9 +58,6 @@ h1 {
   margin: 40px;
   padding: 10px;
 }
-.section-5 {
-  display: flex;
-}
 .food {
   width: 30%;
   margin: 3%;
@@ -76,4 +73,10 @@ footer {
 }
 #copyright {
   color: brown;
+}
+.section-5 {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 1px 2px 6px 3px red;
+  margin: 40px;
 }
